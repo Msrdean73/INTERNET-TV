@@ -1,0 +1,17 @@
+#EXTM3U
+
+#EXTINF:-1,LIFESTYLE - [043] Eat and Go
+rtp://@239.1.1.229:9350
+
+#EXTINF:-1,LIFESTYLE - [480] Fashion One
+rtp://@239.1.2.127:8736
+
+#EXTINF:-1,LIFESTYLE - [481] E! Entertainment
+rtp://@239.1.2.145:8844
+
+#EXTINF:-1,LIFESTYLE - [484] Fashion TV
+rtp://@239.1.2.79:8448
+
+#EXTINF:-1,LIFESTYLE - [485] Nat Geo People
+rtp://@239.1.2.67:8376
+
